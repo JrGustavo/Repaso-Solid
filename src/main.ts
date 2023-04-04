@@ -1,5 +1,6 @@
 import './style.css'
-import './Clean-Code/06-clases-b'
+//import './Clean-Code/06-clases-b'
+import './solid/01-srp';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
